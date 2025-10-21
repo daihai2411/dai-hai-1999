@@ -1,4 +1,3 @@
-import reactLogo from './assets/react.svg'
 import bg from '/bg.jpg'
 import './App.css'
 
